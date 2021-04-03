@@ -1,0 +1,37 @@
+body {
+    text-align: center;
+    background-color: #dbf6e9;
+    padding: 0;
+}
+
+#top-section {
+    background-color: black;
+    padding: 8px 0;
+}
+
+.title-txt {
+    color: white;
+    font-weight: bold;
+}
+
+.logo1 {
+    width: 80%;
+    height: 80%;
+}
+
+.logo2 {
+    width: 80%;
+    height: 80%;
+}
+
+.form {
+    padding: 8px;
+    text-align: left;
+}
+
+.footer-div {
+    background-color: black;
+    color: white;
+    padding-top: 20px;
+    font-size: 50%%;
+}
